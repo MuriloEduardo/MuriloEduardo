@@ -38,7 +38,7 @@ I'm **Murilo Eduardo dos Santos**, a passionate **Senior Software Engineer** fro
 ## 📫 Contact
 
 - ✉️ Email: **muriloeduardoooooo@gmail.com**  
-- 🌐 LinkedIn: [in progress – feel free to add if available]  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/murilo-eduardo-dos-santos-4729a3297]  
 - 📍 Location: Porto Alegre, RS  
 - 🕒 Timezone: UTC -3  
 
