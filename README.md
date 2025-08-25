@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou **Murilo Eduardo dos Santos**, engenheiro de software sênior e fundador da **DialogHub**, uma startup que entrega **relatórios inteligentes via WhatsApp** para desenvolvedores, usando GitHub Events e IA. Moro em **Porto Alegre, RS** 🇧🇷 e atuo como tech lead e CTO em projetos que integram backend, IA e automações práticas.
+Sou **Murilo Eduardo dos Santos**, engenheiro de software sênior e fundador da **DialogHub**, uma startup que entrega **relatórios inteligentes via WhatsApp** para desenvolvedores, usando GitHub Events e IA. Moro em **Porto Alegre, RS** 🇧🇷 e atuo como tech lead e engenheiro de software em projetos que integram backend, IA e automações práticas.
 
 ---
 
